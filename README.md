@@ -1,4 +1,4 @@
-# Application permettant de détexter les contours d'une image
+# Application permettant de détecter les contours d'une image
 
 
 ## 🔍 Aperçu du Projet
