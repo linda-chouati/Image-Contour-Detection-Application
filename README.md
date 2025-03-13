@@ -1,15 +1,16 @@
-# Ce projet est une application graphique utilisant wxWidgets et OpenCV pour effectuer de la détection de contours sur une image, avec différentes options de filtrage, seuillage et affinage.
+# Application permettant de détexter les contours d'une image
 
 
+## 🔍 Aperçu du Projet
 
-## Membre du groupe  
+<p align="center">
+  <img src="data/app.png" alt="image de l'app" width="500" height="300">
+</p>
 
-CHOUATI Linda p1805862
-BARCA AHMED Fateh p2413465
-ZAKNOUN Samy p2106974
+Ce projet est une application graphique utilisant wxWidgets et OpenCV pour effectuer de la détection de contours sur une image, avec différentes options de filtrage, seuillage et affinage.
 
 
-## Installation
+## 🔄 Installation et Lancement
 
 1. Installer wxWidgets et OpenCV
 
@@ -20,7 +21,7 @@ ZAKNOUN Samy p2106974
     ./ImageProject
 
 
-## Utilisation
+## 🚀 Utilisation
 
 - Ouvrir une image via le menu File > Ouvrir une image
 - Appliquer un filtre et une stratégie
